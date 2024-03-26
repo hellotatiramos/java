@@ -19,3 +19,7 @@ c
 .gitiginore,6/5/652d0ad6c8e7103a70c6466cba776dde55c71207
 `
 0src/main/java/com/tatiramos/controle/IfElse.java,4/b/4b4741bc4ce588d8b9271734b52106352597aba5
+j
+:src/main/java/com/tatiramos/desafios/DesafioDiaSemana.java,4/1/41ecc71661e804cf33f2eafe94e5a996b63223d6
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
