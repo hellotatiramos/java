@@ -33,3 +33,9 @@ X
 (src/main/java/com/tatiramos/DoWhile.java,6/f/6f72e5685bddbddd05fc90eae8311e5311496385
 f
 6src/main/java/com/tatiramos/desafios/DesafioWhile.java,d/7/d71498778dd7edbdabe53507212ae2be06815f1d
+^
+.src/main/java/com/tatiramos/controle/For2.java,2/f/2f94273428507a544546f92c9f01875899263ac2
+^
+.src/main/java/com/tatiramos/controle/For3.java,8/e/8ed602add19121b35984c1a60fbff72c3c05b355
+d
+4src/main/java/com/tatiramos/desafios/DesafioFor.java,4/a/4a58ed21d706d845aab7aa8d93ef9d6bb141604a
