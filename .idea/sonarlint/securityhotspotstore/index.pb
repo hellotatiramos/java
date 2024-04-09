@@ -23,8 +23,6 @@ j
 :src/main/java/com/tatiramos/desafios/DesafioDiaSemana.java,4/1/41ecc71661e804cf33f2eafe94e5a996b63223d6
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-_
-/src/main/java/com/tatiramos/controle/While.java,f/e/fed8be7799294bd6a04e16940fd8a465858c9cf1
 j
 :src/main/java/com/tatiramos/controle/WhileDeterminado.java,7/1/7130cc69fe8a5128c1746749137094d604b1b576
 ^
@@ -33,3 +31,5 @@ l
 <src/main/java/com/tatiramos/controle/WhileIndeterminado.java,8/2/82e3145b30ee4721b352b6739e92739e13088045
 X
 (src/main/java/com/tatiramos/DoWhile.java,6/f/6f72e5685bddbddd05fc90eae8311e5311496385
+f
+6src/main/java/com/tatiramos/desafios/DesafioWhile.java,d/7/d71498778dd7edbdabe53507212ae2be06815f1d
